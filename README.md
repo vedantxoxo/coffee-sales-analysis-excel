@@ -26,3 +26,8 @@ This project analyzes coffee shop order data using Microsoft Excel to understand
 
 The Excel workbook contains the cleaned data, analysis, PivotTables, visualizations, and dashboard used for this project.
 
+## Dashboard Preview
+
+![Coffee Orders Dashboard](Coffee-Orders-Dashboard.png)
+
+
